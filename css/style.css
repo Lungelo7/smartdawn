@@ -954,6 +954,7 @@ ul.imp-links li a {
 
 /*Widget2: subscribe form*/
 
+/*subscribe*/
   @font-face {
     font-display: block;
     font-family: Roboto;
@@ -977,25 +978,26 @@ ul.imp-links li a {
   #sib-container input:-ms-input-placeholder {
     text-align: left;
     font-family: "Helvetica", sans-serif;
-    color: #c0ccda;
+    color: #474e54;
   }
 
   #sib-container input::placeholder {
     text-align: left;
     font-family: "Helvetica", sans-serif;
-    color: #c0ccda;
+    color: #474e54;
   }
 
   #sib-container textarea::placeholder {
     text-align: left;
     font-family: "Helvetica", sans-serif;
-    color: #c0ccda;
+    color: #474e54;
   }
 
   #sib-container a {
     text-decoration: underline;
     color: #2BB2FC;
   }
+ /*subscribe*/
 
 #subscribe #result {
     display: block;
